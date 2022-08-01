@@ -14,7 +14,7 @@ It needs to collect and store cookie data. Go to `assets` and create `jquery.pro
 Don't forget about this step. It's super important! Go to `templates` folder and then click on `product.json file`, paste the code where you would like to show a recently viewed section.
 
 🇷🇺
-# Как Добавить Недавно Просмотренные в Шопифай тему Dawn?
+# Как Добавить Секцию Недавно Просмотренных товаров в Шопифай тему Dawn?
 
 ## Создайте recently-viewed.liquid файл
 Перейдите в папку `sections` и создайте `recently-viewed.liquid` файл.
