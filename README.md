@@ -5,7 +5,7 @@
 Go to `sections` folder and create `recently-viewed.liquid` file.
 
 ## Create a stylesheet file
-Navigate to `assets` folder and create `section.recently.viewed.css` file, paste the code inside. By the way you can paste CSS into section file. If so, don't forget to delete first line from the section file and use liquid tags `{% style %}` *your styles here* `{% endstyle %}` to wrap your styles. More about **liquid** you can read [here](https://www.shopify.com/partners/shopify-cheat-sheet).
+Navigate to `assets` folder and create `section-recently-viewed.css` file, paste the code inside. By the way you can paste CSS into section file. If so, don't forget to delete first line from the section file and use liquid tags `{% style %}` *your styles here* `{% endstyle %}` to wrap your styles. More about **liquid** you can read [here](https://www.shopify.com/partners/shopify-cheat-sheet).
 
 ## Create jquery.product.min.js file
 It needs to collect and store cookie data. Go to `assets` and create `jquery.product.min.js` file and paste the code into it.
