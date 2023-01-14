@@ -20,7 +20,7 @@ Don't forget about this step. It's super important! Go to `templates` folder and
 Перейдите в папку `sections` и создайте `recently-viewed.liquid` файл.
 
 ## Создайте файл стилей
-Перейдите в папку `assets` и создайте `section.recently.viewed.css`файл и вставьте код внутрь файла. Вы можете использовать CSS код и на странице секции. Для этого не забудьте удалить первую строчку из файла секции и используйте liquid тэги `{% style %}` *ваши стили будут тут* `{% endstyle %}` чтобы обернуть ваши стили. Чтобы почитать больше про liquid перейдите по этой [ссылке](https://www.shopify.com/partners/shopify-cheat-sheet).
+Перейдите в папку `assets` и создайте `section-recently-viewed.css`файл и вставьте код внутрь файла. Вы можете использовать CSS код и на странице секции. Для этого не забудьте удалить первую строчку из файла секции и используйте liquid тэги `{% style %}` *ваши стили будут тут* `{% endstyle %}` чтобы обернуть ваши стили. Чтобы почитать больше про liquid перейдите по этой [ссылке](https://www.shopify.com/partners/shopify-cheat-sheet).
 
 ## Создайте jquery.product.min.js файл
 Он нужен для сбора и хранения куки продуктов. Перейдите в папку `assets` и создайте `jquery.product.min.js` файл и вставьте код.
