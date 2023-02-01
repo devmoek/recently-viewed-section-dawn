@@ -183,6 +183,10 @@ Don't forget to indicate this section in order, like so:
 
 You can see a little bit different product page layout. It's okay. Hope it helps :)
 
+
+## Note
+You can faced with possible issues. For example, the code won't work in your theme. That's okay and no worries. Every store can have different settings like integrations or whatever. If so, [reach me by email](mailto:info@devmoek.com) I'll help you.
+
 🇷🇺
 # Как Добавить Секцию Недавно Просмотренных Товаров в Шопифай тему Dawn?
 
