@@ -188,6 +188,13 @@ You can see a little bit different product page layout. It's okay. Hope it helps
 ## Note
 You can faced with possible issues. For example, the code won't work in your theme. That's okay and no worries. Every store can have different settings like integrations or whatever. If so, [reach me by email](mailto:info@devmoek.com) I'll help you.
 
+## Support
+If you find this useful you can support me to keep this section open source:
+* [Buy me a coffee](https://buymeacoffee.com/moek)
+* [Patreon](https://patreon.com/devmoek)
+* [Open Collective](https://opencollective.com/myers)
+
+
 🇷🇺
 # Как Добавить Секцию Недавно Просмотренных Товаров в Шопифай тему Dawn?
 
@@ -376,6 +383,12 @@ document.addEventListener("DOMContentLoaded", function (event) {
 ## Примечание
 Вы можете столкнуться с возможными проблемами. Допустим, код из этого репозитория может не работать в вашей теме. Это нормально, т.к каждый магазин настроен по-разному. Если вы столкнулись с какой-либо проблемой [напишите мне на почту](mailto:info@devmoek.com), я постараюсь вам помочь.
 
+
+## Поддержка
+Если это секция оказалась вам полезна, вы можете поддержать автора чтобы секция оставалась бесплатной:
+* [Buy me a coffee](https://buymeacoffee.com/moek)
+* [Patreon](https://patreon.com/devmoek)
+* [Open Collective](https://opencollective.com/myers)
 
 
 Sincerely, 
