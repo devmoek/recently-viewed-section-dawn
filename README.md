@@ -4,6 +4,8 @@ The Recently Viewed Items section allows you to show your visitors the products 
 
 ## IMPORTANT
 This version of Recently Viewed items use jQuery. If you don't use jQuery in your theme you shouldn't install it for just one section (this one). It loads a lot of additional scripts, so perfomance of you site will be slightly decreased.
+
+In the future I'm planning to make a new version of recently viewed section with no jQuery, just plain JS. I'm not sure yet it will be open source or not, so any feedback appreciated
 Updated: 1 Jul 2023.
  
 
@@ -202,6 +204,12 @@ If you find this useful you can support me to keep this section open source:
 
 🇷🇺
 # Как Добавить Секцию Недавно Просмотренных Товаров в Шопифай тему Dawn?
+
+## ВАЖНО
+Эта версия Недавно просмотренных товаров использует jQuery. Если вы не используете jQuery в вашей теме, вы не должны устанавливать его только для одной секции (для этого). Он загружает много дополнительных скриптов, поэтому скорость вашего сайта будет немного снижена.
+
+В будущем я планирую сделать новую версию недавно просмотренного раздела без jQuery, на ванильном JS. Я не уверен, будет ли она с открытым исходным кодом или нет, так что любой фидбэк приветствуется.
+Обновлено: 1 июля 2023 года.
 
 ## Создайте recently-viewed.liquid файл
 Перейдите в папку `sections` и создайте `recently-viewed.liquid` файл. Поместите код ниже в созданный файл:
