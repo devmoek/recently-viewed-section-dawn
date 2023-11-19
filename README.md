@@ -1,4 +1,4 @@
-🇺🇸
+EN
 # How To Show Recently Viewed Items in Shopify Store Using Dawn Theme?
 The Recently Viewed Items section allows you to show your visitors the products they’ve viewed while browsing your site, offering you an opportunity to increase your sales by showing them the items they’ve already shown interest in. Getting started is easy.
 
