@@ -198,8 +198,7 @@ You can faced with possible issues. For example, the code won't work in your the
 ## Support
 If you find this useful you can support me to keep this section open source:
 * [Buy me a coffee](https://buymeacoffee.com/moek)
-* [Patreon](https://patreon.com/devmoek)
-* [Open Collective](https://opencollective.com/myers)
+* [PayPal](https://www.paypal.com/paypalme/majersas)
 
 
 🇷🇺
@@ -400,9 +399,10 @@ document.addEventListener("DOMContentLoaded", function (event) {
 ## Поддержка
 Если это секция оказалась вам полезна, вы можете поддержать автора чтобы секция оставалась бесплатной:
 * [Buy me a coffee](https://buymeacoffee.com/moek)
-* [Patreon](https://patreon.com/devmoek)
-* [Open Collective](https://opencollective.com/myers)
+* [PayPal](https://www.paypal.com/paypalme/majersas)
+* [Через карты выпущенные в России](https://donate.stream/myers)
 
+---
 
 Sincerely, 
 moek
